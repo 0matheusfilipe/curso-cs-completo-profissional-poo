@@ -1,0 +1,7 @@
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\TermoThis\bin\Debug\TermoThis.exe.config
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\TermoThis\bin\Debug\TermoThis.exe
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\TermoThis\bin\Debug\TermoThis.pdb
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\TermoThis\obj\Debug\TermoThis.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\TermoThis\obj\Debug\TermoThis.exe
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\TermoThis\obj\Debug\TermoThis.pdb
