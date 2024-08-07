@@ -1,0 +1,7 @@
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Estaticas\bin\Debug\Estaticas.exe.config
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Estaticas\bin\Debug\Estaticas.exe
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Estaticas\bin\Debug\Estaticas.pdb
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Estaticas\obj\Debug\Estaticas.exe
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Estaticas\obj\Debug\Estaticas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\POO\Propriedades\obj\Debug\Propriedades.pdb
